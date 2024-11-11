@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Classes Rev", "13-Classes Rev\13-Classes Rev.csproj", "{2095DE1F-A8DE-49F3-B5D8-A1D9E8C87570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2095DE1F-A8DE-49F3-B5D8-A1D9E8C87570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2095DE1F-A8DE-49F3-B5D8-A1D9E8C87570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2095DE1F-A8DE-49F3-B5D8-A1D9E8C87570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2095DE1F-A8DE-49F3-B5D8-A1D9E8C87570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D33A82E-416A-433E-B3C9-27A56C56A5B7}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/cm0912085
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 13-Classes\u0020Rev\\13-Classes\u0020Rev.csproj
+		SccProjectName1 = 13-Classes\u0020Rev
+		SccLocalPath1 = 13-Classes\u0020Rev
+	EndGlobalSection
+EndGlobal
